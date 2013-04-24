@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grammar root="top" xml:lang="ru-RU">
+    <rule id="top" scope="public"> 
+      <one-of>
+            <item>Как вы поживаете</item>
+            <item>привет как дела</item>
+            <item>привет как живете</item>
+      </one-of>
+  </rule> 
+</grammar>
+

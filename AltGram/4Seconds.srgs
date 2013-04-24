@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grammar root="top" xml:lang="en-US">
+    <rule id="top" scope="public"> 
+            <item>Hello it's Guy Raz here</item>
+            <item></item>
+  </rule> 
+</grammar>
